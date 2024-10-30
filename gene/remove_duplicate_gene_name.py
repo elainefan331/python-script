@@ -1,3 +1,5 @@
+# already finished
+
 import csv
 
 input_file = '../../database/gene_DB/protein_coding_gene.tsv'
