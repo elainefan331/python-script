@@ -1,3 +1,5 @@
+# already finished
+
 import csv;
 
 input_file_path = '../gwasLD_DB/gwas_catalog_v1.0.2-associations_e100_r2020-12-15.tsv_chr23_gwasLD_AnnotationResults.txt_mongoDB.txt'    # Replace with your input file name
