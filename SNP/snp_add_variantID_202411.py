@@ -1,8 +1,8 @@
 import csv
 
 # Define the file paths
-input_file_path = '../../annotation/dbSNP154_chr1_0_MUSC_AnnotationResults.txt'
-output_file_path = '../../annotation/variant_database/dbSNP154_chr1_0_MUSC_AnnotationResults_updated.tsv'
+input_file_path = '../../../annotation/dbSNP154_chr1_0_MUSC_AnnotationResults.txt'
+output_file_path = '../../../annotation/variant_database/dbSNP154_chr1_0_MUSC_AnnotationResults_updated.tsv'
 
 # Function to process the file in chunks
 def process_file_in_chunks(input_path, output_path, chunk_size=10000):
